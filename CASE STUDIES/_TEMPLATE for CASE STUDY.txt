@@ -1,4 +1,4 @@
-﻿To resolve:
+**To resolve:**
 The links to related modules, the style guide, and the complete list of modules need to be updated once these exist for this project.
 
 Preliminary notes:
@@ -8,10 +8,10 @@ Note: We want to ensure that the case studies we publish are not just accounts o
 
 Many questions may be answered in the style guide.
 
-CASE STUDY: [Title]
+**CASE STUDY: [Title]**
 
-When: [date]
-Where: [location]
+**When:** [date]
+**Where:** [location]
 
 What: [a write-up of what happened and why it’s significant: 500 words or less.]
 
