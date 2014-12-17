@@ -1,0 +1,51 @@
+﻿To resolve:
+The links to related modules, the style guide, and the complete list of modules need to be updated once these exist for this project.
+
+Some exemplary theories: Action logic, Points of intervention, Cultural hegemony 
+
+Many questions may be answered in the style guide
+
+THEORY: [Name of theory]
+ 
+In sum: [A one- or two-line summary of the theory.]
+ 
+Origins: [Originating theorist (i.e., Trotsky, Deleuze, Luxemburg...) and/or historical context — one or two lines max.]
+
+[Optional] Epigraph: [A short relevant quote.]
+
+Body: [500-word (or less) write-up explaining the theory.]
+ 
+[Optional] Most famous application: [One sentence or short list.]
+and/or 
+Most infamous application: [One sentence or short list.]
+ 
+Related TACTICS: [Simple list of related tactics. Draw from the master list of tactics. If your preferred tactics are not on the list, check in w/ editors, and we might add them.]
+
+Related PRINCIPLES: [Simple list of relevant principles. Draw from the master list of principles. If your preferred principles are not on the list, check in w/ editors, and we might add them.]
+ 
+Related THEORIES: [Simple list of other related theories. Draw from the master list of theories. If your preferred theories are not on the list, check in w/ editors, and we might add them.]
+
+PRACTITIONERS: [Simple list of relevant practitioner(s). Key practitioners are being briefly profiled in the book here. If your practitioners are not on this list, please add them here.]
+ 
+Further insights: [Links to particularly relevant content offline and online (please include URLs). See the style guide for more information and how to format.]
+
+Contributed by: [author (i.e. YOU).]
+Pull quote: [If a sentence is particularly thought-provoking, and short attention-grabbing, please list it here for consideration as a pull quote for the piece.]
+
+##END## 
+
+Author’s bio: [If we don’t already have a bio for you (check this webpage), please provide a brief write-up about yourself, 100 words max. Also include a headshot, as high-res as possible. If too big to upload, please email to team@beautifultrouble.org.]
+##END##
+
+Images: Below this END marker please insert images that could accompany your write-up. Please include suggested captions, file names and permission contact info for any accompanying images. See the Graphics section of the style guide for details.
+
+FOR EACH IMAGE:
+
+[INSERT IMAGE - if too large to upload, email image to team@beautifultrouble.org.]
+
+[Optional] Caption: SuggestedCaption
+Contact for permission/usage status: NameAndContactInfoOfRightsHolder, or creative commons by attribution, public domain, etc.
+Image size @300DPI: Don’tWorryAboutThis
+Image title: TH_title of chapter_something descriptive about the image.jpg/.tif
+
+
