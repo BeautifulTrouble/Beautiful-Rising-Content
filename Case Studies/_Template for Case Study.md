@@ -8,63 +8,90 @@ _Preliminary notes:_
 
 # CASE STUDY: Title
 
-## When: [date]
-## Where: [location]
+#### When: [date]
 
-## What:  [What happened and why it’s significant: 500 words or less.]
+#### Where: [location]
 
-## Why it worked: [~100 word overview of why the case study is exemplary/instructive/effective.]
+#### What:  
+[What happened and why it’s significant: 500 words or less.]
 
-## [Optional] What didn’t work: [If any important lessons leap out because of things that went wrong, include a brief write-up about them here.]
+#### Why it worked: 
+[~100 word overview of why the case study is exemplary/instructive/effective.]
 
-## Key TACTIC used: [Drawing from the master list of tactics, provide a ~50 word write-up of the one, or at most two, most relevant tactic(s) used in this case study. Note that the tactic itself will be fully explained elsewhere, so there’s no need to explain it in depth; focus instead on how it applies in this particular case. If your preferred tactic is not on the list, check in w/ editors, and we might add it.]
+#### [Optional] What didn’t work: 
+[If any important lessons leap out because of things that went wrong, include a brief write-up about them here.]
 
-### TitleOfFirstKeyTactic: [50words.]
-### [Optional] TitleOfSecondKeyTactic: [50words.]
+#### Key TACTIC used: 
+[Drawing from the master list of tactics, provide a ~50 word write-up of the one, or at most two, most relevant tactic(s) used in this case study. Note that the tactic itself will be fully explained elsewhere, so there’s no need to explain it in depth; focus instead on how it applies in this particular case. If your preferred tactic is not on the list, check in w/ editors, and we might add it.]
 
-## Other TACTICS used: [Simple list of other related tactics.]
+##### TitleOfFirstKeyTactic: 
+[50words.]
+
+##### [Optional] TitleOfSecondKeyTactic: 
+[50words.]
+
+#### Other TACTICS used: 
+[Simple list of other related tactics.]
  
-## Key PRINCIPLES at work: [Drawing from the master list of principles, provide 1 to 4 ~50-word write-ups of key principles, explaining how the relevant principles were used to make the action a success. Note that the principle itself will be fully explained elsewhere, so there’s no need to explain it in depth; focus instead on how it applies in this particular case. If your preferred principle is not on the list, check in w/ editors, and we might add it.] 
+#### Key PRINCIPLES at work: 
+[Drawing from the master list of principles, provide 1 to 4 ~50-word write-ups of key principles, explaining how the relevant principles were used to make the action a success. Note that the principle itself will be fully explained elsewhere, so there’s no need to explain it in depth; focus instead on how it applies in this particular case. If your preferred principle is not on the list, check in w/ editors, and we might add it.] 
 
-### TitleOfFirstKeyPrinciple: [50words.]
-### [Optional] TitleOfSecondKeyPrinciple: [50words.]
-### [Optional] TitleOfThirdKeyPrinciple: [50words.]
-### [Optional] TitleOfFourthKeyPrinciple: [50words.]
+##### TitleOfFirstKeyPrinciple: 
+[50words.]
 
-## Other PRINCIPLES at work: [Simple list of other related principles.]
+##### [Optional] TitleOfSecondKeyPrinciple: 
+[50words.]
 
-## [Optional] Key THEORY at work: [Drawing from the master list of theories, provide a ~50 word write-up of the most relevant theory used in this case study. Note that the theory itself will be fully explained elsewhere, so there’s no need to explain it in depth; focus instead on how it applies in this particular case. If your preferred theory is not on the list, check in w/ editors, and we might add it.]
-## Other THEORIES at work: [Simple list of theories that have been applied.]
+##### [Optional] TitleOfThirdKeyPrinciple: 
+[50words.]
 
-## PRACTITIONERS: [Simple list of relevant practitioner(s). Key practitioners are being briefly profiled in the book here. If your practitioners are not on this list, please add them here.]
+##### [Optional] TitleOfFourthKeyPrinciple: 
+[50words.]
+
+#### Other PRINCIPLES at work: 
+[Simple list of other related principles.]
+
+#### [Optional] Key THEORY at work: 
+[Drawing from the master list of theories, provide a ~50 word write-up of the most relevant theory used in this case study. Note that the theory itself will be fully explained elsewhere, so there’s no need to explain it in depth; focus instead on how it applies in this particular case. If your preferred theory is not on the list, check in w/ editors, and we might add it.]
+
+#### Other THEORIES at work: 
+[Simple list of theories that have been applied.]
+
+#### PRACTITIONERS: 
+[Simple list of relevant practitioner(s). Key practitioners are being briefly profiled in the book here. If your practitioners are not on this list, please add them here.]
  
-## Learn more: [Links to particularly relevant content offline and online.]
+#### Learn more: 
+[Links to particularly relevant content offline and online.]
 
 _For each item, indicate:_
-### Title: 
-###Description: [Generally tag-lines for websites, bylines for books, bylines with publication name for articles, and "Film by" or "Documentary by" for films. Adapt as appropriate]
-### Type: [book, article, video, audio, website]
-### URL:
+##### Title: 
+#####Description: [Generally tag-lines for websites, bylines for books, bylines with publication name for articles, and "Film by" or "Documentary by" for films. Adapt as appropriate]
+##### Type: [book, article, video, audio, website]
+##### URL:
 
 
-## Contributed by: [author (i.e. YOU).]
+#### Contributed by: [author (i.e. YOU).]
 
 
 # Metadata 
 
-## Tags:  [Tags for sorting/navigation purposes, drawn from the master list of tags (TK)]
+#### Tags:  
+[Tags for sorting/navigation purposes, drawn from the master list of tags (TK)]
 
-## Pull quote: [If a sentence is particularly thought-provoking, and short attention-grabbing, please list it here for consideration as a pull quote for the piece.]
+#### Pull quote: 
+[If a sentence is particularly thought-provoking, and short attention-grabbing, please list it here for consideration as a pull quote for the piece.]
 
-## Author’s bio: [If we don’t already have a bio for you (check this webpage), please provide a brief write-up about yourself, 100 words max. Also include a headshot, as high-res as possible. If too big to upload, please email to team@beautifultrouble.org.]
+#### Author’s bio: 
+[If we don’t already have a bio for you (check this webpage), please provide a brief write-up about yourself, 100 words max. Also include a headshot, as high-res as possible. If too big to upload, please email to team@beautifultrouble.org.]
 
-## Images: 
+#### Images: 
 _For each image:_
-### Image link: [If you have suggestions of one or more images you think would work well to illustrate this entry, please include a link to the image. Alternately, images can also be uploaded to our images folder, but please indicate the image name and link to it here. NOTE: The images need to be LARGE! Please ensure images are at least 1024 px wide, and ideally greater than 2000 px wide (at 72 dpi). If image is too large to upload, email image to dave@beautifultrouble.org] 
+##### Image link: 
+[If you have suggestions of one or more images you think would work well to illustrate this entry, please include a link to the image. Alternately, images can also be uploaded to our images folder, but please indicate the image name and link to it here. NOTE: The images need to be LARGE! Please ensure images are at least 1024 px wide, and ideally greater than 2000 px wide (at 72 dpi). If image is too large to upload, email image to dave@beautifultrouble.org] 
 
-### Image caption: [Short description of the image.]
+##### Image caption: 
+[Short description of the image.]
 
-### Image copyright status: [E.g., creative commons, by permission of so-and-so, etc..]
-
-
+##### Image copyright status: 
+[E.g., creative commons, by permission of so-and-so, etc..]
 
