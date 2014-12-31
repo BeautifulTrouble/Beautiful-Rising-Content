@@ -1,11 +1,9 @@
-# POTENTIAL BT CONTENT FOR BR
+# BT content options for adaption to BRISING
 
-Below is a complete list of all Beautiful Trouble modules. 
-We have marked the ones we feel may be particularly relevant in **bold.** 
-Ones we felt are likely to be less relevant we’ve indented.
-Ones we suspect would need significant rewrites are accompanied with an (R). 
+*Below is a complete list of all published Beautiful Trouble modules. We have marked the ones we feel may be particularly relevant for Beautiful Rising in **bold.** Ones we felt are likely to be least relevant we’ve indented. Ones we suspect would need significant rewrites are accompanied with an (R). 
+	-DM & AB*
 
-## Tactics
+### Tactics
 [Advanced leafleting] (http://beautifultrouble.org/tactic/advanced-leafleting/)
 **[Artistic vigil] (http://beautifultrouble.org/tactic/artistic-vigil/)**
 [Banner hang](http://beautifultrouble.org/tactic/banner-hang/) 
@@ -40,7 +38,7 @@ Public filibuster
 Strategic nonviolence
 **Trek**
 
-## Principles
+### Principles
 **Anger works best when you have the moral high ground**
 Anyone can act
 Balance art and message
@@ -98,7 +96,7 @@ Use your cultural assets**
 Use your radical fringe to shift the Overton window
 We are all leaders
 
-##Theories
+###Theories
 **Action logic**
 					Alienation effect
 **Anti-oppression(R)**
@@ -131,7 +129,7 @@ The social cure**
 The tactics of everyday life
 **Theater of the Oppressed**
 
-## Case Studies
+### Case Studies
 99% bat signal
 Barbie Liberation Organization
 Battle in Seattle
@@ -172,7 +170,7 @@ Wisconsin Capitol occupation
 World Record for the Number of People Shouting “No Vas a Tener Casa En La Puta Vida”
 Yomango
 
-## Practitioners
+### Practitioners
 ACT-UP
 Adbusters
 **April 6 Youth Movement (Egypt)**

@@ -70,10 +70,11 @@ _For each item, indicate:_
 ##### URL:
 
 
-#### Contributed by: [author (i.e. YOU).]
+#### Contributed by: 
+[author (i.e. YOU).]
 
 
-# Metadata 
+## Marginalia
 
 #### Tags:  
 [Tags for sorting/navigation purposes, drawn from the master list of tags (TK)]
@@ -82,12 +83,12 @@ _For each item, indicate:_
 [If a sentence is particularly thought-provoking, and short attention-grabbing, please list it here for consideration as a pull quote for the piece.]
 
 #### Author’s bio: 
-[If we don’t already have a bio for you (check this webpage), please provide a brief write-up about yourself, 100 words max. Also include a headshot, as high-res as possible. If too big to upload, please email to team@beautifultrouble.org.]
+[If we don’t already have a bio for you, please provide a brief (one- or two-sentence) write-up about yourself. Also include a photo of yourself, as high-res as possible. If too big to upload, please email to team@beautifultrouble.org.]
 
 #### Images: 
 _For each image:_
 ##### Image link: 
-[If you have suggestions of one or more images you think would work well to illustrate this entry, please include a link to the image. Alternately, images can also be uploaded to our images folder, but please indicate the image name and link to it here. NOTE: The images need to be LARGE! Please ensure images are at least 1024 px wide, and ideally greater than 2000 px wide (at 72 dpi). If image is too large to upload, email image to dave@beautifultrouble.org] 
+[If you have suggestions of one or more images you think would work well to illustrate this entry, please include a link to the image. Alternately, images can also be uploaded to our images folder, but please indicate the image name and link to it here. NOTE: The images need to be LARGE! Please ensure images are at least 1024 px wide, and ideally greater than 2000 px wide (at 72 dpi). If image is too large to upload, email image to team@beautifultrouble.org] 
 
 ##### Image caption: 
 [Short description of the image.]
