@@ -2,7 +2,7 @@
 
 *This document is a work in progress. We welcome input on these values and expect that they will evolve throughout the production of the toolkit. Add feedback here or email dave@beautifultrouble.org*
 
-The Beautiful Rising team is committed to embodying the following values in every aspect of our work:
+**The Beautiful Rising team is committed to embodying the following values in every aspect of our work:**
 
 #### People power and international solidarity 
 In our work of articulating and sharing the strategies that make social movements more creative and more effective, we prioritize the participation, wisdom, and active leadership of those on the front lines of these struggles, particularly women, youth, indigenous peoples, people living in poverty, and those who face discrimination or marginalization on the basis of their political views, sexual orientation, gender identity, ethnicity, class, race, or religion. We support and stand in solidarity with popular movements in their efforts to exercise grassroots democratic power in opposition to local elites and geopolitical interests. Guided by this core understanding, we seek to model true international solidarity in every aspect of our work.
@@ -22,7 +22,7 @@ Recognizing that we are working within a limited understanding of the technical 
 #### Agile & responsive engagement
 We are committed to providing open and safe mechanisms for project partners and Beautiful Rising audiences to offer criticism and feedback as the project unfolds, and to adjusting and adapting both our process and the resulting toolkit in response to criticisms raised and lessons learned. 
 
-##### Disclaimer
+#### Disclaimer
 The Beautiful Rising team can assume no responsibility for the risks incurred, the victories achieved, the defeats suffered, nor any unintended consequences that may arise from use of the toolkit.
 
 
