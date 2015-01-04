@@ -2,6 +2,7 @@
 
 ### Tactics
 * Blockade (Gabi Juns?)
+* Community complaint boxes ([ActionAid Mozambique](http://vimeo.com/102927619))
 * Hunger strike (Waging Nonviolence folks?)
 
 ### Principles
