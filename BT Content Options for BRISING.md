@@ -4,39 +4,39 @@
 	-DM & AB*
 
 ### Tactics
-[Advanced leafleting] (http://beautifultrouble.org/tactic/advanced-leafleting/)
-**[Artistic vigil] (http://beautifultrouble.org/tactic/artistic-vigil/)**
-[Banner hang](http://beautifultrouble.org/tactic/banner-hang/) 
-[Blockade](http://beautifultrouble.org/tactic/blockade/) 
-**[Cacerolazo(R)](http://beautifultrouble.org/tactic/cacerolazo/)**
-**[Creative disruption(R)](http://beautifultrouble.org/tactic/cacerolazo/)**
-[**Creative petition delivery**](http://beautifultrouble.org/tactic/creative-petition-delivery/)
-[Debt strike](http://beautifultrouble.org/tactic/debt-strike/) 
-[Détournement/Culture jamming](http://beautifultrouble.org/tactic/detournementculture-jamming/)
-[**Direct action**](http://beautifultrouble.org/tactic/direct-action/)
-**Distributed action**
-					Electoral guerrilla theater
-Eviction blockade
-**Flash mob**
-Forum theater
-**General strike (R)**
-Guerrilla projection
-					Hoax
-**Human banner**
-Identity correction
-Image theater
-Infiltration
-**Invisible theater**
-**Legislative theater**
-Light Brigade
-**Mass street action**
-Media-jacking
-Nonviolent search and seizure
-**Occupation**
-**Prefigurative intervention**
-Public filibuster
-Strategic nonviolence
-**Trek**
+* [Advanced leafleting] (http://beautifultrouble.org/tactic/advanced-leafleting/)
+* **[Artistic vigil] (http://beautifultrouble.org/tactic/artistic-vigil/)**
+* [Banner hang](http://beautifultrouble.org/tactic/banner-hang/) 
+* [Blockade](http://beautifultrouble.org/tactic/blockade/) 
+* **[Cacerolazo(R)](http://beautifultrouble.org/tactic/cacerolazo/)**
+* **[Creative disruption(R)](http://beautifultrouble.org/tactic/cacerolazo/)**
+* [**Creative petition delivery**](http://beautifultrouble.org/tactic/creative-petition-delivery/)
+* [Debt strike](http://beautifultrouble.org/tactic/debt-strike/) 
+* [Détournement/Culture jamming](http://beautifultrouble.org/tactic/detournementculture-jamming/)
+* [**Direct action**](http://beautifultrouble.org/tactic/direct-action/)
+* **Distributed action**
+* 					Electoral guerrilla theater
+* Eviction blockade
+* **Flash mob**
+* Forum theater
+* **General strike (R)**
+* Guerrilla projection
+* 					Hoax
+* **Human banner**
+* Identity correction
+* Image theater
+* Infiltration
+* **Invisible theater**
+* **Legislative theater**
+* Light Brigade
+* **Mass street action**
+* Media-jacking
+* Nonviolent search and seizure
+* **Occupation**
+* **Prefigurative intervention**
+* Public filibuster
+* Strategic nonviolence
+* **Trek**
 
 ### Principles
 **Anger works best when you have the moral high ground**
