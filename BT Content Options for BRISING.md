@@ -15,7 +15,7 @@
 * [Détournement/Culture jamming](http://beautifultrouble.org/tactic/detournementculture-jamming/)
 * [**Direct action**](http://beautifultrouble.org/tactic/direct-action/)
 * **Distributed action**
-* 					Electoral guerrilla theater
+* ~~Electoral guerrilla theater~~
 * Eviction blockade
 * **Flash mob**
 * Forum theater
