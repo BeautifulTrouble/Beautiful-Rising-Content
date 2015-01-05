@@ -1,6 +1,6 @@
 # BT content options for adaption to BRISING
 
-*Below is a complete list of all published Beautiful Trouble modules. We have marked the ones we feel may be particularly relevant for Beautiful Rising in **bold.** Ones we felt are likely to be least relevant we’ve indented. Ones we suspect would need significant rewrites are accompanied with an (R). 
+*Below is a complete list of all published Beautiful Trouble modules. We have marked the ones we feel may be particularly relevant for Beautiful Rising in **bold.** Ones we felt are likely to be least relevant we’ve marked with ~~strikethrough~~. Ones we suspect would need significant rewrites are accompanied with an (R). 
 	-DM & AB*
 
 ### Tactics
@@ -21,7 +21,7 @@
 * Forum theater
 * **General strike (R)**
 * Guerrilla projection
-* 					Hoax
+* ~~Hoax~~
 * **Human banner**
 * Identity correction
 * Image theater
