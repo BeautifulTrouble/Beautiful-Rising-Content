@@ -71,6 +71,9 @@ _For each item, indicate:_
 #### Risk level:
 [Yet to be developed: a scale from 1 to 5 measuring the risk involved in using this tactic.]
 
+#### Difficulty level:
+[Yet to be developed: a scale from 1 to 5 measuring the difficulty involved in using this tactic.]
+
 #### Tags:  
 [Tags for sorting/navigation purposes, drawn from the master list of tags (TK)]
 

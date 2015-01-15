@@ -34,6 +34,9 @@ The links to related modules, the style guide, and the complete list of modules 
 #### Related THEORIES: 
 [Simple list of other related theories. Draw from the master list of theories. If your preferred theories are not on the list, check in w/ editors, and we might add them.]
 
+#### Related CASE STUDIES:
+[Simple list of related case studies. Draw from the master list of case studies. If your preferred case studies are not on the list, check in w/ editors, and we might add them.]
+
 #### PRACTITIONERS: 
 [Simple list of relevant practitioner(s). Key practitioners are being briefly profiled in the book here. If your practitioners are not on this list, please add them here.]
  
