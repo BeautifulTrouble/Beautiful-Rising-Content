@@ -1,3 +1,4 @@
+_Note: This module is being developed for BeautifulTrouble.org, not for Beautiful Rising -- editing here as a test run._
 
 # CASE STUDY: PARK(ing) Day
 
