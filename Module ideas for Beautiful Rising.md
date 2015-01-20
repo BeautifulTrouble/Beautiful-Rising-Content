@@ -22,6 +22,9 @@
 
 ### Practitioners
 
+* Friends of the Congo (Maurice Carney, ED, The highlighting of cultural assets in resistance ought to be particularly interesting - see a sample of Art on the Frontline coming out of DRC: https://www.youtube.com/watch?v=NJ6eRV4eBnI - from Rae) 
+* Bil'in Popular Committee - Iyad Burnat - Palestine - friday demonstrations (Rae) 
+
 
 
 
