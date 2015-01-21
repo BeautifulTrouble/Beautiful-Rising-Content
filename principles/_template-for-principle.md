@@ -1,9 +1,7 @@
-**To resolve before sharing:**
-The links to related modules, the style guide, and the complete list of modules need to be added once these exist for this project.
-
 *Preliminary notes:*
-* Some example principles from Beautiful Trouble: Use the power of ritual, Use the Jedi mind trick, and Put your target in a decision dilemma [LINK TK]
-* Many questions may be answered in the style guide
+* Example principle: [Put your target in a decision dilemma](https://github.com/BeautifulTrouble/Beautiful-Rising-Content/blob/master/principles/principle-put-your-target-in-a-decision-dilemma.md).
+* For more inspiration, here are some example principles from Beautiful Trouble: [Choose tactics that support your strategy](http://beautifultrouble.org/principle/choose-tactics-that-support-your-strategy/), [Simple rules can have grand results](http://beautifultrouble.org/principle/simple-rules-can-have-grand-results/), and [Shift the spectrum of allies](http://beautifultrouble.org/principle/shift-the-spectrum-of-allies/).
+* Many questions may be answered in the [style guide](https://github.com/BeautifulTrouble/Beautiful-Rising-Content/blob/master/style-guide.md).
 
 # PRINCIPLE: [Title] 
 [Title of principle, phrased in the imperative, e.g.: ”Take direction from the most impacted,” or as a law, e.g. “Less is more.”]
@@ -67,4 +65,5 @@ _For each image:_
 [Short description of the image.]
 
 ##### Image copyright status: 
-[E.g., creative commons, by permission of so-and-so, etc..] 
+[E.g., creative commons, by permission of so-and-so, etc..]
+

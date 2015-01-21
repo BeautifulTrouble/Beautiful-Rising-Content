@@ -1,6 +1,6 @@
 #### Practitioner: The Zapatistas
 
-#### Country: Mexico
+#### Where: Chiapas, in southern Mexico
 
 #### Body:
 Although the Zapatista Army of National Liberation (EZLN) began as, and in many ways remains, an armed uprising against the Mexican state, the EZLN frames its goals and actions in political, rather than military, terms. The movement’s former anti-leader Subcomandante Marcos has written: “In a war, the decisive thing is not the military confrontation but the politics at stake in the confrontation. We didn’t go to war to kill or be killed. We went to war in order to be heard.” The movement’s moving communiqués and savvy media campaigns, and more recently its focus on building a better world in its own communities, have inspired radicals all over the world to demand autonomy and rise up against illegitimate governments and encroaching resource companies.

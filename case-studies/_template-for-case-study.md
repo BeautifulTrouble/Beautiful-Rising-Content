@@ -1,10 +1,8 @@
-**To resolve before sharing:**
-The links to example and related modules, the style guide, and the complete list of modules need to be updated once these exist for this project.
-
 _Preliminary notes:_
-* We want to ensure that the case studies we publish are not just accounts of cool or fun actions, but ideally, that they're accounts of actions that changed the situation, that changed what was considered possible, and/or that showcase new and exciting principles or tactics that activists in other places could learn from and adapt.
-* Some example case studies from *Beautiful Trouble*: Whose Tea Party?, Trail of Dreams, Barbie Liberation Organization, & Taco Bell Boycott
-* Many questions may be answered in the style guide. [LINK TK]
+* Case studies are investigations of actions that changed a situation, that changed what was considered possible, and/or that showcase new and exciting principles or tactics that activists in other contexts could learn from and adapt.
+* See [CASE: The salt march](https://github.com/BeautifulTrouble/Beautiful-Rising-Content/blob/master/case-studies/case-the-salt-march.md) for an example of a case study we're planning to adapt for inclusion in Beautiful Rising.
+* For inspiration, here are some recent case studies from *Beautiful Trouble*: [Taco Bell Boycott](http://beautifultrouble.org/case/taco-bell-boycott/), [Brazil's Free Fare Movement](http://beautifultrouble.org/case/brazils-free-fare-movement/) (from the Brazilian edition), [Pimp my... carroca!](http://beautifultrouble.org/case/pimp-my-carroca/) (from the Brazilian edition), and [Idle No More and the Round Dance Flash Mob](http://beautifultrouble.org/case/idle-dance-flash-mob/). 
+* Many questions may be answered in the [style guide](https://github.com/BeautifulTrouble/Beautiful-Rising-Content/blob/master/style-guide.md). 
 
 # CASE STUDY: Title
 

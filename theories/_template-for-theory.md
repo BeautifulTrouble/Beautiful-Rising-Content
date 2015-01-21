@@ -1,9 +1,7 @@
-**To resolve before sharing:**
-The links to related modules, the style guide, and the complete list of modules need to be updated once these exist for this project.
-
 *Preliminary notes:*
-* Some example theories from Beautiful Trouble: Action logic, Points of intervention, Cultural hegemony 
-* Many questions may be answered in the style guide
+* Example theory: [Pillars of support](https://github.com/BeautifulTrouble/Beautiful-Rising-Content/blob/master/theories/theory-pillars-of-support.md)
+* For more inspiration, here are some example theories from Beautiful Trouble: [Action logic](http://beautifultrouble.org/theory/action-logic-2/), [Points of intervention](http://beautifultrouble.org/theory/points-of-intervention/), [Environmental justice](http://beautifultrouble.org/theory/environmental-justice/) 
+* Many questions may be answered in the [style guide](https://github.com/BeautifulTrouble/Beautiful-Rising-Content/blob/master/style-guide.md).
 
 # THEORY: [Name of theory]
  

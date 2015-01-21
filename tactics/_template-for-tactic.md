@@ -1,9 +1,7 @@
-**To resolve before sharing:**
-The links to related modules, the style guide, and the complete list of modules need to be added once these exist for this project.
-
 *Preliminary notes:*
-* Some example tactics from Beautiful Trouble: Artistic vigil, Creative disruption, Hoax.
-* Many questions may be answered in the style guide
+* Example tactic: [Mass street action](https://github.com/BeautifulTrouble/Beautiful-Rising-Content/blob/master/tactics/tactic-mass-street-action.md) 
+* For inspiration, here are some example tactics from Beautiful Trouble: Artistic vigil, Creative disruption, Hoax.
+* Many questions may be answered in the [style guide](https://github.com/BeautifulTrouble/Beautiful-Rising-Content/blob/master/style-guide.md).
 
 # TACTIC: [Name of tactic]
  

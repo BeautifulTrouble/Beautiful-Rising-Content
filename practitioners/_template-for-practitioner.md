@@ -1,12 +1,13 @@
 
 _Brief write-ups of some of the people and groups that inspire us to be better changemakers._
-
-_Whether it’s groups ([example, example]), lone artists ([example]), movements (the Zapatistas, the Via Campesina) or collectives ([example, example]), a vast tapestry of pranksters and rebel dreamers, both living and dead, have given our movements their singular style and sense._
+For example, see [Practitioner: Mothers of the Plaza de Mayo](https://github.com/BeautifulTrouble/Beautiful-Rising-Content/blob/master/practitioners/practitioner-mothers-of-the-plaza-de-mayo.md) and [Practitioner: The Zapatistas](https://github.com/BeautifulTrouble/Beautiful-Rising-Content/blob/master/practitioners/practitioner-the-zapatistas.md).
 
 #### Practitioner: [Name of practitioner]
 
+#### Where:
+
 #### Body:
-[100-200 words describing the practitioner & their relevance.]
+[100-200 words describing the practitioner & why they're important.]
 
 #### See also: 
 [List of related & relevant modules]

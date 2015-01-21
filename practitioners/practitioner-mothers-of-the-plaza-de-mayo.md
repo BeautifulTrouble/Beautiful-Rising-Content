@@ -1,6 +1,6 @@
 #### Practitioner: Mothers of the Plaza de Mayo
 
-#### Country: Argentina
+#### Where: Argentina
 
 #### Body:
 Mothers of the Plaza de Mayo is a group of Argentine human rights activists — mothers of disappeared activists — formed in response to the campaign of disappearances, torture and murder carried out during the military junta’s 1976-1983 “dirty war.” The junta “disappeared” over 30,000 people while denying any knowledge of their whereabouts. Day after day, the Mothers assembled in the Plaza de Mayo, facing the presidential palace, to protest the disappearance of their children. They wore headscarves with the names of their children and often carried photographs of the disappeared. Mothers of the Plaza de Mayo played a critical role in organizing resistance to the junta and in its eventual collapse in 1983.  
