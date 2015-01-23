@@ -26,7 +26,7 @@ Similarly, during the course of your involvement with the project, you may hear 
 
 ## Communicating with us
 
-During the course of collaborating with us, we may ask you to submit written material. If you would like to take steps to help ensure that this material is not easily read by others, we encourage you [research your options](https://ssd.eff.org/en/index) or ask us for assistance. Beautiful Trouble is not resourced to provide digital security training at this time, but each team member has been briefed to be able to provide you with straightforward options for communicating with them security.
+During the course of collaborating with us, we may ask you to submit written material. If you would like to take steps to help ensure that this material is not easily read by others, we encourage you [research your options](https://ssd.eff.org/en/index) or ask us for assistance. Beautiful Rising is not resourced to provide digital security training at this time, but each team member has been briefed to be able to provide you with straightforward options for communicating with them security.
 
 If communicating with the Beautiful Rising project would put you at risk in any way, please refrain from doing so directly and explore alternative, possibly indirect ways to contact us.
 
@@ -34,7 +34,7 @@ If communicating with the Beautiful Rising project would put you at risk in any 
 
 Each member of the [Beautiful Rising team](https://github.com/BeautifulTrouble/Beautiful-Rising-Research/blob/master/the-team-and-contributors.md) has a published public PGP key. That key can be used to secure your communication with that person, reducing the risk of the message being read by another party. Securing your communication in this way does not remove the evidence that you've communicated with us.
 
-If you are not familiar with, or already set-up to use PGP, please contact the team member you with to communicate with and ask for alternative ways to transmit information to them.
+If you are not familiar with, or already set-up to use PGP, please contact the team member you want to communicate with and ask for alternative ways to transmit information to them.
 
 ## Chat
 
