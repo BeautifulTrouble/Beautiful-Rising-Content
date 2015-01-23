@@ -20,7 +20,7 @@ The tools that we use in our communication and collaboration with contributors w
 We are committed to ensuring that the Beautiful Rising toolkit is not just accessible to, but is built in active collaboration with, frontline activists working in a range of challenging circumstances. The toolkit should not just reflect these activists' experiences and accumulated wisdom, but should be useable in their local contexts, regardless of limitations of bandwidth, language, technology, and security. 
 
 #### Open-source, creative commons
-We will make use of, and contribute to, open-source software initiatives whenever possible. All materials will be published under a Creative Commons Attribution-NonCommercial ShareAlikke 4..0 International License.
+We will make use of, and contribute to, open-source software initiatives whenever possible. All materials will be published under a Creative Commons Attribution-NonCommercial ShareAlikke 4.0 International License.
 
 #### Agile & responsive engagement
 We are committed to providing open and safe mechanisms for contributors and readers to offer criticism and feedback as the project unfolds, and to adjusting and adapting both our process and the resulting toolkit in response to criticisms raised and lessons learned. 
