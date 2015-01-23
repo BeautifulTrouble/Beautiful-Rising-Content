@@ -44,7 +44,7 @@ We are also investigating the [Telegram](https://telegram.org/) messenger at thi
 
 ## Phone calls
 
-We may also ask to speak with you on the phone, or you may find that a voice call is the easiest way to convey some information. Most members of the team are set-up to initiative and receive calls using the encrypted voice application called [Redphone](https://whispersystems.org/) on Android or [Signal](https://whispersystems.org/blog/signal/) on iOS. If you have the option of commnicating with one of these mobile applications, we recommend it -- keep in mind, however, that these applications require a wifi or data connection.
+We may also ask to speak with you on the phone, or you may find that a voice call is the easiest way to convey some information. Most members of the team are set-up to initiate and receive calls using the encrypted voice application called [Redphone](https://whispersystems.org/) on Android or [Signal](https://whispersystems.org/blog/signal/) on iOS. If you have the option of commnicating with one of these mobile applications, we recommend it -- keep in mind, however, that these applications require a wifi or data connection.
 
 ## Video meetings
 
