@@ -23,7 +23,7 @@ You can explore the content using the folders above -- everything is sorted by c
 
 Note that templates for modules can be found in their respective content type folder. E.g. the **case study** template can be found in the case study folder, etc, etc.
 
-### Which docuemnts to edit
+### Which documents to edit
 
 To come.
 
