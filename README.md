@@ -5,11 +5,11 @@ Welcome to the content repository for the [Beautiful Rising](http://beautifulris
 
 ## Working with us securely
 
-Outlined in our [\_misc/markdown/statement of values](statement-of-values-for-beautiful-rising.md) is the Beautiful Rising team's commitment to security & privacy:
+Outlined in our [statement of values](_misc/markdown/statement-of-values-for-beautiful-rising.md) is the Beautiful Rising team's commitment to security & privacy:
 
 > The tools that we use in our communication and collaboration with contributors will respect and enhance their privacy to the greatest extent possible. If we are required to use systems or networks that we believe to be inherently insecure, we commit to providing clear guidance to our collaborators on how to protect themselves, their identity, and their location while working with us.
 
-If you are collaborating with us -- as a workshop participant, as a contributor, as an advisor, as an ally -- we encourage you explore the [\_misc/markdown/security and privacy options](security-and-privacy-options.md) that are available to you.
+If you are collaborating with us -- as a workshop participant, as a contributor, as an advisor, as an ally -- we encourage you explore the [security and privacy options](_misc/markdown/security-and-privacy-options.md) that are available to you.
 
 ## How to use this repository
 
