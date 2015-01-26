@@ -51,5 +51,3 @@ We may also ask to speak with you on the phone, or you may find that a voice cal
 To facilitate one-on-one or multi-party video conferences, we have set-up an instance of Jitsi Meet. It is an equivalent to Google Hangouts and similar systems. In the course of collaborating with us, we will provide you with access to this tool and will encourage you to use it over other potentially less-secure alternatives.
 
 If you have a question about this document, please contact us (securely if possible) using one of the methods above. Failing that, you can send an e-mail to phillip AT beautifultrouble DOT org.
-
-
