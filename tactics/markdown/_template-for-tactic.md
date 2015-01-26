@@ -1,6 +1,6 @@
 *Preliminary notes:*
 * Example tactic: [Mass street action](https://github.com/BeautifulTrouble/Beautiful-Rising-Content/blob/master/tactics/tactic-mass-street-action.md) 
-* For inspiration, here are some example tactics from Beautiful Trouble: Artistic vigil, Creative disruption, Hoax.
+* For inspiration, here are some example tactics from Beautiful Trouble: [Artistic vigil](http://beautifultrouble.org/tactic/artistic-vigil/), Creative disruption, Hoax.
 * Many questions may be answered in the [style guide](https://github.com/BeautifulTrouble/Beautiful-Rising-Content/blob/master/style-guide.md).
 
 # TACTIC: [Name of tactic]
