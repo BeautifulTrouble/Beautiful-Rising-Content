@@ -1,8 +1,9 @@
 # Case study questionnaire
 
+*Please answer these questions as fully as you're able — your answers will help ensure that the write-up of your case study is as accurate, complete, and interesting as possible!*
+
 ## What was the name of the campaign or action?
 
-*(One line —  example: the Flower Speech campaign)*
 
 
 
@@ -57,15 +58,12 @@
 
 
 
-## *Possible further questions to tease out interesting material:*
+
+## (Optional) Were there any unintended consequences?
 
 
 
-
-## Were there any unintended consequences?
-
-
-
+## How can we reach you if we have follow-up questions?
 
 
 
