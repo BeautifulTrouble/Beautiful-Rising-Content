@@ -1,4 +1,4 @@
-Beautiful Rising: Security & Privacy Options {.Heading_20_1}
+Beautiful Rising: Security & Privacy Options
 ============================================
 
 Outlined in our [<span class="Definition"> statement of values
@@ -16,7 +16,7 @@ If you are collaborating with us -- as a workshop participant, as a
 contributor, as an advisor, as an ally -- we encourage you to read the
 following security considerations:
 
-Web sites & services {.Heading_20_2}
+Web sites & services
 --------------------
 
 During the course of your involvement with Beautiful Rising you may be
@@ -41,7 +41,7 @@ typically do this by directing you to web sites that do not require you
 to sign-in, and by relying on sites where we have a reasonable belief
 that information collection is limited.
 
-Mobile applications & services {.Heading_20_2}
+Mobile applications & services
 ------------------------------
 
 Similarly, during the course of your involvement with the project, you
@@ -63,7 +63,7 @@ scrutiny. Here are some common scenarios to be aware of:
     applications (we provide some specific recommendations of tools that
     we believe to be more secure below).
 
-Communicating with us {.Heading_20_2}
+Communicating with us
 ---------------------
 
 During the course of collaborating with us, we may ask you to submit
@@ -80,7 +80,7 @@ If communicating with the Beautiful Rising project would put you at risk
 in any way, please refrain from doing so directly and explore
 alternative, possibly indirect ways to contact us.
 
-### Email {.Heading_20_3}
+### Email
 
 Each member of the [<span class="Definition"> Beautiful Rising team
 </span>](https://github.com/BeautifulTrouble/Beautiful-Rising-Research/blob/master/the-team-and-contributors.md)
@@ -93,7 +93,7 @@ If you are not familiar with, or already set-up to use PGP, please
 contact the team member you want to communicate with and ask for
 alternative ways to transmit information to them.
 
-Chat {.Heading_20_2}
+Chat
 ----
 
 Most members of the [<span class="Definition"> Beautiful Rising team
@@ -107,7 +107,7 @@ We are also investigating the [<span class="Definition"> Telegram
 </span>](https://telegram.org/) messenger at this time. If you are using
 Telegram already, please let us know.
 
-Phone calls {.Heading_20_2}
+Phone calls
 -----------
 
 We may also ask to speak with you on the phone, or you may find that a
@@ -121,7 +121,7 @@ the option of commnicating with one of these mobile applications, we
 recommend it -- keep in mind, however, that these applications require a
 wifi or data connection.
 
-Video meetings {.Heading_20_2}
+Video meetings
 --------------
 
 To facilitate one-on-one or multi-party video conferences, we have
@@ -134,7 +134,7 @@ If you have a question about this document, please contact us (securely
 if possible) using one of the methods above. Failing that, you can send
 an e-mail to phillip AT beautifultrouble DOT org.
 
-Next actions for this document {.Heading_20_2}
+Next actions for this document
 ------------------------------
 
-[ ] Simplify the language
+* [ ] Simplify the language
