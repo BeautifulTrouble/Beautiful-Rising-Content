@@ -115,5 +115,5 @@ Next actions for this document
 ------------------------------
 
 * [√] Simplify the language
-* [ ] Review Dave's edits and comments in ***[awkward bold brackets]***
+* [x] Review Dave's edits and comments in ***[awkward bold brackets]***
 * [ ] This still kind of reads like a Terms & Conditions statement... I wonder if we could/should distill it into a "3 ways to communicate with us securely" document, followed by a "learn more" directory of links to resources, services, tutorials, etc?
